@@ -1,4 +1,5 @@
-Sales-Opportunity-AI-Analysis
+LLM Powered GTM (Go-To-Market) Strategist
+
 AI-Powered Analysis of US Finance Companies & Service Opportunities
 
 📌 Overview
@@ -74,6 +75,6 @@ Extend to other domains like Healthcare, Retail, etc.
 Deploy as a web dashboard for sales teams.
 
 👤 Author
-Sreevatsun Janarthanaam
+Sreevatsun Janarthanaam        
 Master of Science in Scientific Instrumentation, Ernst-Abbe-Hochschule Jena, Germany
 📧 sreevatsunj@gmail.com
